@@ -2,7 +2,7 @@
 clear
 clc
 % specify path to dataset location
-muse_root = 'P:\d00\research\2019\projects\muse\tools\muse\';
+muse_root = 'destination-folder\muse\';
 % select to load sample-data/full-data
 sample_str = 'sample-data';
 % select sequence
